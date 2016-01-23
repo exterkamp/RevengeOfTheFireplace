@@ -1,0 +1,8 @@
+Client Id: 
+aMfh1A5nJkCHC_xREeVmpssK9PXSfZ054RPRlbv6
+
+Client Secret:
+TG6jFD5kvs01sjG0Hf4e_ANUm3-2FbAO2iq9UsuO
+
+Access Token:
+NdXfVTEb0fH7tkGjy7WXnHy6Fjzs6J
